@@ -1,8 +1,6 @@
 # Allwinner H616 Vontar V6 Android Tv Box
 
-<p align="center">
-  <img width="640" height="340" src="./img/Vontar-V6-3.jpg">
-</p>
+![Vontar V6](./img/Vontar-V6-3.jpg)
 
 ## Specification
 
